@@ -1,6 +1,6 @@
 # Registration Form 📝
 
-Formulário de cadastro (Registration Form) desenvolvido em HTML, CSS e JavaScript, com layout centralizado em um card sobre fundo azul.
+Formulário de cadastro (Registration Form) desenvolvido em HTML, CSS, com layout centralizado em um card sobre fundo azul.
 
 ## 📋 Sobre o projeto
 
